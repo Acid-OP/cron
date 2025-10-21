@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/config/gemini.ts","./src/config/gmail-config.ts","./src/services/gemini.ts","./src/services/gmail-config.ts"],"version":"5.9.3"}
